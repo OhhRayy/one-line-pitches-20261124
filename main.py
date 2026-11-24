@@ -19,6 +19,7 @@ PITCH = (
 def main() -> None:
     assert 1 <= len(PITCH) <= 240, f"pitch is {len(PITCH)} chars, must be 1-240"
     assert PITCH.strip() == PITCH and PITCH.strip(), "pitch must not be blank"
+    assert "\n" not in PITCH, "pitch must be a single line"
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
         f.write(PITCH)
