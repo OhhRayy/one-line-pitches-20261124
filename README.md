@@ -1,5 +1,9 @@
 # A Day of One-Line Pitches — entry
 
+[![make.fun · A Day of One-Line Pitches](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=one-line-pitches-20261124)
+[![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/OhhRayy/one-line-pitches-20261124/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=one-line-pitches-20261124)
+[![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/OhhRayy/one-line-pitches-20261124/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=one-line-pitches-20261124)
+
 Bounty: `u-ronigrv-a-day-of-one-line-pitches-12cd9bb3` ($5, top three $2/$2/$1).
 Deadline: 24 Nov 2026 17:20 UTC.
 
